@@ -1,4 +1,6 @@
-# todo-list-v1
-This is a todolist project from Angela Yu's complete bootcamp. Using EJS, express and Node.js
-->A To-do list Application 📋
-->Skills: HTML, CSS, Bootstrap, JavaScript, Express, EJS.
+# TinDog
+A website made during Angela Yu course: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+Website uses Bootstrap framework and plain html and css.
+
+Live: https://teresacza.github.io/TinDog/index.html
